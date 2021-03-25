@@ -13,11 +13,11 @@ enable-smart-app-banner: true
 footer-description: Made by Jane smith in Toronto
 contact-list:
 - url: https://twitter.com/john.doe
-  icon: star-empty
+  icon: user
 - url: https://github.com/john.doe
-  icon: star-empty
+  icon: user
 - url: mailto:john.doe@gmail.com
-  icon: star-empty
+  icon: user
 features-list:
 - title: Support
   description: Lorem ipsum
