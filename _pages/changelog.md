@@ -1,65 +1,15 @@
 ---
 layout: page
-title: What's New
+title: Nothing
 include_in_header: true
 
 ---
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis massa odio. Praesent auctor convallis ligula, tincidunt aliquam mi porttitor a. Maecenas sit amet lobortis mi. Aliquam mattis, tortor sit amet laoreet commodo, tortor ex maximus enim, a consequat sem dui et dui. Pellentesque blandit hendrerit risus eget dapibus. Praesent at magna eu lorem hendrerit gravida vitae id turpis. Donec eget iaculis lacus, venenatis hendrerit velit. Duis est erat, auctor in aliquam eget, bibendum vitae turpis. Praesent nec lectus non nunc finibus sodales. Donec sodales tortor nunc, in venenatis libero malesuada sed. Praesent dictum, tortor quis fringilla pharetra, lorem diam malesuada risus, sit amet bibendum purus eros quis tellus. Aenean ut eros ex. Praesent semper id ante ac tempor. Aenean dui erat, sagittis vitae lobortis eget, ornare a elit. Duis id gravida mi.
 
-<br>
+Quisque non rhoncus sem. Morbi ultricies, sapien varius facilisis ultrices, leo elit pulvinar risus, ut consectetur ex purus vitae justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In blandit ultricies arcu vitae gravida. Vestibulum vel nibh turpis. Integer vel ipsum in ipsum luctus pulvinar. Phasellus sed blandit lectus. Praesent leo elit, rutrum in dapibus id, vestibulum eget odio. Aenean ac libero sed leo egestas molestie.
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+Sed rhoncus porttitor pellentesque. Sed ultricies magna at tincidunt blandit. Vivamus malesuada vel orci id gravida. Mauris diam mauris, vehicula sed finibus eget, tincidunt et enim. Aenean sed maximus leo. Cras consequat, erat non tincidunt ullamcorper, sem diam molestie odio, ac aliquet dui purus ac libero. Fusce bibendum tempus lobortis. Duis purus odio, dignissim eleifend tempus vitae, ultrices at nulla. Mauris luctus turpis augue, sit amet dapibus felis ultrices gravida.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+Donec eget nunc vel quam congue congue in et urna. Vestibulum eget tincidunt dolor, eu pretium nisi. Nulla condimentum mi eget tortor imperdiet, eget placerat nunc aliquam. Donec eleifend urna at est molestie, eu aliquet tortor semper. Aliquam et diam a odio placerat mattis a ac mi. Suspendisse in consequat nisl, in dictum nulla. Sed vitae pulvinar orci. Vestibulum ut nibh vulputate, varius nunc quis, consectetur metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ultrices, ante et aliquet accumsan, risus felis fermentum turpis, non hendrerit velit ligula quis urna. Pellentesque fringilla urna eros, sagittis aliquet nulla eleifend vel. Duis imperdiet arcu magna, at facilisis nunc gravida at.
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-________
-<br>
-
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
-<br>
+Praesent vulputate quam eros, at volutpat nunc mollis a. Maecenas vitae mi vitae velit tempor sollicitudin et facilisis tortor. Nullam nibh nibh, hendrerit sit amet congue sit amet, lobortis quis magna. Donec at odio magna. Morbi feugiat porttitor quam pulvinar malesuada. Proin vestibulum felis et nisi pretium porttitor. Vestibulum molestie elit a felis scelerisque hendrerit.
